@@ -1,1 +1,2 @@
-Hello this is my MAD practical 1
+Hello this is my MAD practical 1 
+My Name is Jigarsinh
